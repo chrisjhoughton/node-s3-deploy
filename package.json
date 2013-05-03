@@ -1,0 +1,26 @@
+{
+  "name": "s3deploy",
+  "version": "0.0.1",
+  "description": "Publish an entire directory to an S3 bucket with one command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "knox": "x.x.x",
+    "async": "x.x.x",
+    "lodash": "1.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "amazon",
+    "s3",
+    "node",
+    "deploy"
+  ],
+  "author": "Chris Houghton",
+  "license": "BSD"
+}

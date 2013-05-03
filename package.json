@@ -9,7 +9,8 @@
   "dependencies": {
     "knox": "x.x.x",
     "async": "x.x.x",
-    "lodash": "1.x.x"
+    "lodash": "1.x.x",
+    "colors": "x.x.x"
   },
   "repository": {
     "type": "git",
